@@ -1,0 +1,5 @@
+﻿已启动生成…
+1>------ 已启动生成: 项目: Project31, 配置: Debug x64 ------
+1>test.cpp
+1>Project31.vcxproj -> C:\Users\郑雅文的电脑\source\repos\Project31\x64\Debug\Project31.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
